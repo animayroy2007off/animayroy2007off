@@ -32,6 +32,6 @@ Git workflows, API interaction, and Markdown documentation
 
 ## Connect With Me
 
-- LinkedIn : https://www.linkedin.com/in/animay-roy-5b4034407?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- LinkedIn : https://www.linkedin.com/in/animay-roy-5b4034407
 
 - Email : 2601730288@krmu.edu.in
